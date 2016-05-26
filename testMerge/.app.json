@@ -15,7 +15,7 @@
   "navigation": "tabstrip",
   "view": "home",
   "transition": "slide",
-  "showMoreTab": false,
+  "showMoreTab": true,
   "skin": "nova",
   "skinMainColor": "#32364c",
   "skinTextColor": "#ffffff",
